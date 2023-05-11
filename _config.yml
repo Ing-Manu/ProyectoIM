@@ -20,8 +20,8 @@ author: David Arevalo
 ###############################################
 
 navbar-links:
-  About Me: "proyecto"
-  Resources:
+  Proyecto: "proyecto"
+  Areas:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
