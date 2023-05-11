@@ -22,9 +22,9 @@ author: David Arevalo
 navbar-links:
   Proyecto: "aboutme"
   Areas:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Analisis inicial: "Analisis"
+    - Propuesta: "Propuesta"
+  Equipo: "Equipo"
   Historia: "Historia"
 
 ################
