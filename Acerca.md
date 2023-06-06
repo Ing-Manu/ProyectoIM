@@ -11,6 +11,12 @@ Cast-Metal es una empresa familiar enfocada a la comercialización de productos 
 
 
 
-### My story
+### Misión
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Establecer una relación con nuestros clientes Win to Win.
+Basamos nuestro trabajo con apoyo de nuestros colaboradores en ser sinergéticos: comprometidos a voluntad, porque creemos en los proyectos de nuestros clientes, trabajando en equipo para hacer realidad esos proyectos, y con esto satisfacer así las necesidades de nuestros clientes con un servicio personalizado, rápido, efectivo y con una óptima relación calidad-precio.
+Respetando el entorno social y medioambiental.
+
+### Visión 
+
+Consolidarnos como una empresa líder a nivel local a corto plazo, y proyectarnos a ser reconocidos a nivel nacional y regional a mediano plazo, ser la mejor opción en el momento de que nuestros clientes busquen un proveedor de servicios de fundición de metales no ferrosos.
