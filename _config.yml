@@ -22,6 +22,7 @@ author: David Arevalo
 navbar-links:
   Acerca de la empresa: "Acerca"
   Etapas del proyecto:
+    - Descripcion: "Descripcion"
     - Analisis inicial: "Analisis"
     - Propuesta: "Propuesta"
   Equipo: "Equipo"
