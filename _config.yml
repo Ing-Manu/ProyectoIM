@@ -20,12 +20,11 @@ author: David Arevalo
 ###############################################
 
 navbar-links:
-  Proyecto: "aboutme"
-  Areas:
+  Acerca de la empresa: "aboutme"
+  Etapas del proyecto:
     - Analisis inicial: "Analisis"
     - Propuesta: "Propuesta"
   Equipo: "Equipo"
-  Historia: "Historia"
 
 ################
 # --- Logo --- #
