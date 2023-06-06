@@ -26,3 +26,6 @@ Bogotá Colombia
 
 <div align="center"><img src="/assets/img/Ubi.jpg" width="900" ></div> 
 
+Hola 
+
+![Ubicacion](/assets/img/Ubi.jpg)
