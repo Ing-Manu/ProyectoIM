@@ -18,3 +18,11 @@ Respetando el entorno social y medioambiental.
 ### Visión 
 
 Consolidarnos como una empresa líder a nivel local a corto plazo, y proyectarnos a ser reconocidos a nivel nacional y regional a mediano plazo, ser la mejor opción en el momento de que nuestros clientes busquen un proveedor de servicios de fundición de metales no ferrosos.
+
+### Ubicación
+
+Cra 16 N 13-24 Sur. Barrio Restrepo
+Bogotá Colombia
+
+
+![Ubicacion](/assets/img/Ubi.jpg)
