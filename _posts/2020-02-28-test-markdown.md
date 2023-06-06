@@ -26,7 +26,8 @@ Here's a useless table:
 
 How about a yummy crepe?
 
-![Crepe]"/assets/img/Pano.jpg"
+![Panoramica](/assets/img/Pano.jpg)
+
 
 It can also be centered!
 
