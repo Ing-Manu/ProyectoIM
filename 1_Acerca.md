@@ -24,5 +24,5 @@ Consolidarnos como una empresa líder a nivel local a corto plazo, y proyectarno
 Cra 16 N 13-24 Sur. Barrio Restrepo
 Bogotá Colombia
 
+<div align="center"><img src="/assets/img/Ubi.jpg" width="900" ></div> 
 
-![Ubicacion](/assets/img/Ubi.jpg)
