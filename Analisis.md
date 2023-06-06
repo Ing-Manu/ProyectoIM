@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Cast - Metal
-subtitle: Acerca de la empresa
+subtitle: Analisis
 ---
 
-Cast-Metal S.A.S Surge en el año 2021 con el nombre comercial El Fundidor S.A.S y estabamos enfocados en el ámbito  de los metales no ferrosos, comercializando placas y cilindros de aluminio, bronce y Cobre para los centros de mecanizados, casi de inmediato también se abre la línea de negocio de moldeo de piezas en arena verde, siempre dirigidos a cubrir las necesidades de nuestros clientes.
-Cast-Metal es una empresa familiar enfocada a la comercialización de productos para la fundición y otras industrias, actualmente contamos con personal capacitado y con experiencia de mas de 30 años en el ramo de la fundición, los cual nos permite entender las necesidades de este mercado y ofrecer productos de calidad para sus procesos.
+Para el primer analisis realizado a la linea de poducción de la empresa se opto por tomar como referencia del proyecto un pedido de 72 praes de piezas para la base de una mesas pedido relizado por un cliente a la empresa Cast-Metal.
+
+![Piezas](/assets/img/Piezas.jpg)
+
 
 
 
@@ -25,4 +27,3 @@ Cra 16 N 13-24 Sur. Barrio Restrepo
 Bogotá Colombia
 
 
-![Ubicacion](/assets/img/Ubi.jpg)
