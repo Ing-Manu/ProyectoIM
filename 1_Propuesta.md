@@ -21,6 +21,7 @@ Calentar la muestra hasta que se evapore todo el contenido de agua.
 
 Pesar la muestra sin humedad y calcular:
 
+![EcHum](/assets/img/EcHum.jpg)
 $\frac{w_{arena húmeda} - w_{arena seca}}{w_{arena húmeda}}*100 %$
 
 La prueba se lleva a cabo teniendo en cuenta que la arena debería tener un contenido de humedad de entre el 30 % y el 35 %.
