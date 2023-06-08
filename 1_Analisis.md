@@ -6,4 +6,5 @@ title: Analisis Inicial
 
 La planta actualmente se encuentra ubicada en una bodega en el barrio el restrepo de Bogota. El Esquema de la planta es el siguiente. 
 
-<div align="center"><img src="/assets/img/Planta.jpg" width="500" ></div> 
+![Planta](/assets/img/Planta.jpg)
+<div align="center"><img src="" width="500" ></div> 
