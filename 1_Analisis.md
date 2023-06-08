@@ -31,7 +31,3 @@ El takt time es importante para poder generar una relación entre la cantidad de
 Finalmente, y teniendo en cuenta todos los anteriores cálculos, se generó el Value Stream Mapping actual de la empresa. En donde se pueden observar los distintos procesos que tienen a lo largo de la fabricación de las piezas. En el diagrama es más sencillo poder identificar los sitios donde se consume y se desperdicia mayor cantidad de tiempo.
 
 ![Vsm1](/assets/img/VSM1.png)
-
-En este nuevo VSM, se propone aumentar la producción en un 200% aproximadamente, teniendo en cuenta los factores analizados. Para este proceso propuesto, es obligación el uso de los dos hornos disponibles con su máxima capacidad de fundición. De igual manera, se reduce un poco el tiempo de enfriamiento de las piezas, al emplear algún método de enfriamiento, como el de
-
-![Vsm1](/assets/img/VSM2.png)
