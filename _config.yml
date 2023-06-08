@@ -52,7 +52,7 @@ title-img: "/assets/img/Logoo.png"
 social-network-links:
   email: "info@cast-metal.co "
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-#  facebook: deanattali
+  facebook: "https://web.facebook.com/infocastmetal.co"
 #  github: daattali
 #  twitter: daattali
 #  patreon: DeanAttali
