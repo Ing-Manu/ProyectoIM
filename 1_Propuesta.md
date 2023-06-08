@@ -14,10 +14,15 @@ El proceso de fabricación de los moldes actualmente se lleva a cabo sin tener e
 * Control de calidad de la arena:
 En el momento, la arena se adquiere a granel y a diferentes proveedores. Entonces, se propone adquirir la arena de un único proveedor y, además, realizar pruebas de humedad de la arena con el fin de mantener su permeabilidad y que todos los moldes tengan la misma calidad.
 La prueba de humedad se lleva a cabo así:
+
 Tomar de 20 a 50 g de arena lista para el molde.
+
 Calentar la muestra hasta que se evapore todo el contenido de agua.
+
 Pesar la muestra sin humedad y calcular:
-warena húmeda - warena secawarena húmeda*100 %
+
+$\frac{w_{arena húmeda} - w_{arena seca}}{w_{arena húmeda}}*100 %$
+
 La prueba se lleva a cabo teniendo en cuenta que la arena debería tener un contenido de humedad de entre el 30 % y el 35 %.
 
 * Sistema de control de los hornos:
