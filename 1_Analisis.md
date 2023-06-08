@@ -16,7 +16,7 @@ Tomando en consideración los parámetros de producción registrados durante el 
 
 De igual manera, es importante conocer la demanda de piezas que tiene la empresa actualmente, para tener el conocimiento de qué cantidad en promedio es solicitada diariamente por los diferentes clientes. Actualmente la empresa tiene una demanda media de 520 unidades por mes, y teniendo en cuenta que solamente hay producción entre semana, arroja una demanda diaria de 26 unidades. Toda la información se consolidó en la siguiente tabla.
 
-![Demanda1](/assets/img/Demanda1.jpg)
+![Demanda1](/assets/img/Dem1.jpg)
 
 Luego de hacer el análisis de la demanda presente y contrastarla con la capacidad de la planta, se hace evidente qué hay potencial de cumplir con una demanda mayor a la actual.
 
