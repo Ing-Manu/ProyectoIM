@@ -10,3 +10,5 @@ En esta web se muestra el trabajo realizado para el proyecto de la clase de inge
 La pieza que se selecciono para este ananlisis es la siguiente.
 
 ![Piezas](/assets/img/Piezas.jpg)
+
+![Horno](/assets/img/Hornos.mp4)
