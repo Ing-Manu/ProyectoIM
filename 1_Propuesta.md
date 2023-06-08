@@ -33,6 +33,11 @@ Durante el tiempo que ha estado funcionando la empresa, al operario de los horno
 
 # Sistema de control
 
+Actualmente los hornos no cuentan con ningun sistema de control en caso de emergencia o para el seguimiento y control adecuados del tiempo y temperatura durante el proceso de fundicion.
+
+![Horno](/assets/img/Horno.jpg)
+
+
 El sistema propuesto para controlar la temperatura de los hornos y automatizar su uso es el siguiente:
 
 ![EcHum](/assets/img/DiagControl.jpg)
