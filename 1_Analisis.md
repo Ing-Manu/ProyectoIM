@@ -26,4 +26,4 @@ Por otro lado, se analizó el valor agregado actual del producto. Se calcula el 
 
 El takt time es importante para poder generar una relación entre la cantidad de piezas solicitadas por los clientes, y el tiempo transcurrido. Es así como surge la necesidad de calcular este dato, para poder tomar decisiones que favorezcan el aumento de la producción, y asimismo, de las utilidades de la empresa
 
-![Time](/assets/img/time1.jpg)
+![Time](/assets/img/Time1.jpg)
