@@ -3,4 +3,4 @@ layout: page
 title: Equipo de trabajo
 ---
 
-Nosotros somos:
+![Vsm1](/assets/img/Equipo.jpg)
