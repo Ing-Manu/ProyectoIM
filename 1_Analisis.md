@@ -8,6 +8,11 @@ La planta actualmente se encuentra ubicada en una bodega en el barrio el restrep
 
 ![Planta](/assets/img/Planta.jpg)
 
+Bajo el esquema de la planta se realizo la simulación de la planta en el software Technomatix Plant Simulation.
+
+![Planta](/assets/img/Planta.jpg)
+![Planta](/assets/img/Planta.jpg)
+
 # VSM actual
 
 Tomando en consideración los parámetros de producción registrados durante el análisis del VSM actual, se ha generado la siguiente tabla. Esta herramienta nos brinda una mejor comprensión de la secuencia de procesos de la empresa Cast Metal y nos permite realizar comparativas entre los distintos tiempos de ciclo de cada proceso involucrado para lograr la finalización de la línea de producción.
