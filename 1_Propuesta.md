@@ -35,6 +35,8 @@ Durante el tiempo que ha estado funcionando la empresa, al operario de los horno
 
 El sistema propuesto para controlar la temperatura de los hornos y automatizar su uso es el siguiente:
 
+![EcHum](/assets/img/DiagControl.jpg)
+
 Tal sistema tiene el siguiente funcionamiento:
 * Entradas:
   + Parada de emergencia:
