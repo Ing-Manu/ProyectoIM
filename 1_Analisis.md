@@ -22,4 +22,8 @@ Luego de hacer el análisis de la demanda presente y contrastarla con la capacid
 
 Por otro lado, se analizó el valor agregado actual del producto. Se calcula el tiempo en el qué hay una transformación del producto, es decir en el que efectivamente se le está agregando valor en un proceso específico, se calcula en minutos. Después, se agrupa la cantidad de tiempo inefectivo de cada una de las etapas del proceso, es decir todos los intervalos de tiempo en el que producto no percibe un aumento de valor.
 
+![Valor1](/assets/img/Val1.jpg)
+
 El takt time es importante para poder generar una relación entre la cantidad de piezas solicitadas por los clientes, y el tiempo transcurrido. Es así como surge la necesidad de calcular este dato, para poder tomar decisiones que favorezcan el aumento de la producción, y asimismo, de las utilidades de la empresa
+
+![Time](/assets/img/Time1.jpg)
