@@ -12,3 +12,5 @@ La pieza que se selecciono para este ananlisis es la siguiente.
 ![Piezas](/assets/img/Piezas.jpg)
 
 ![Horno](/assets/img/Hornos.mp4)
+
+https://drive.google.com/file/d/1sJ5vBDyW9Pd0s_0OHHMvZQPDNvHb26_R/view?usp=sharing
