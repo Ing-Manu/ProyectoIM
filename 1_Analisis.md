@@ -10,8 +10,12 @@ La planta actualmente se encuentra ubicada en una bodega en el barrio el restrep
 
 Bajo el esquema de la planta se realizo la simulación de la planta en el software Technomatix Plant Simulation.
 
-![Diag](/assets/img/DiagPlanta.jpg)
+
 ![Sim](/assets/img/SimPlanta.jpg)
+
+A partir del cual se plantea el siguiente diagrama de procesos.
+
+![Diag](/assets/img/DiagPlanta.jpg)
 
 # VSM actual
 
