@@ -61,3 +61,9 @@ El sistema de control expuesto anteriormente tiene aproximadamente los siguiente
 ![CostosC](/assets/img/CostosControl.jpg)
 
 Estos costos son aproximados ya que hace falta el cableado, los rieles DIN y en gabinete para el tablero.
+
+# VSM propuesto
+
+En este nuevo VSM, se propone aumentar la producción en un 200% aproximadamente, teniendo en cuenta los factores analizados. Para este proceso propuesto, es obligación el uso de los dos hornos disponibles con su máxima capacidad de fundición. De igual manera, se reduce un poco el tiempo de enfriamiento de las piezas, al emplear algún método de enfriamiento, como el de enfriamiento en agua luego de unos minutos al aire.
+
+![Vsm1](/assets/img/VSM2.png)
